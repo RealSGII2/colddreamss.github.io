@@ -44,4 +44,3 @@ a:active {
 	<object data="https://realsgii2.dev/share/button/large_anim.svg" style="position: relative; z-index: -1; outline: none; border-radius: 6px; border: solid 1px rgba(255, 255, 255, 0.1)" />
 </a>
   </div>
-<iframe src="https://www.youtube.com/watch?v=dQw4w9WgXcQr" style="width: 100%;height: 400px;border: none;"></iframe>
