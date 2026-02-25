@@ -13,4 +13,5 @@
 <p>hii, welcome to mah website!</p>
 <p>:3</p>
 <h1>kitty!</h1>
-<img width="720" height="719" alt="image" src="https://github.com/user-attachments/assets/8daed688-da00-455b-a8d6-f5c1573dd593" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8daed688-da00-455b-a8d6-f5c1573dd593" />
+<a href="https://colddreamss.github.io/cat.html">imacat's website!</a>
